@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DevEncurtaUrl.API</name>
+    </assembly>
+    <members>
+        <member name="M:DevEncurtaUrl.API.Controllers.ShortenedLinksController.Post(DevEncurtaUrl.API.Models.AddOrUpdateShortenedLinkModel)">
+            <summary>
+            Cadastrar um link encurtado
+            </summary>
+            <param name="model">Dados de link</param>
+            <returns>Objeto recém-criado</returns>
+            <response code="201">Sucesso</response>
+        </member>
+    </members>
+</doc>

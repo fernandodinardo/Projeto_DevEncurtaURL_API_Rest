@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DevEncurtaUrl.API.props" />
+</Project>
